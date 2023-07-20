@@ -1,0 +1,16 @@
+{
+  "name": "chatgpt-plugin-eu-vat",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@cloudflare/workers-types": "4.20230717.0",
+    "wrangler": "3.3.0"
+  },
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@cloudflare/itty-router-openapi": "0.1.10"
+  }
+}
