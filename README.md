@@ -2,6 +2,9 @@
 
 The plugin allows ChatGPT users to validate EU VAT numbers and get company address info. The plugin is implemented in TypeScript and uses the [OpenAPI](https://www.openapis.org/) specification to define the plugin's API.
 
+<img width="1225" alt="eu-vat-openapi" src="https://github.com/anthonyringoet/chatgpt-eu-vat-validation/assets/576905/255ed3f2-21bf-4aa6-b7c5-3168567bbb20">
+
+
 ## Get started
 
 0. Sign up for [Cloudflare Workers](https://workers.dev). The free tier is more than enough for most use cases.
